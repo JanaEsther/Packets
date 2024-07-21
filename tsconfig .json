@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "lib": ["es2020", "dom"],
+    "module": "es2022",
+    "target": "es2020",
+    "moduleResolution": "node",
+    "strictNullChecks": true,
+    "outDir": "./dist"
+  },
+  "include": ["src/**/*"]
+}
